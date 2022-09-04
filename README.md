@@ -32,7 +32,7 @@
 
 ### :woman_technologist: About Me : I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I work as a Software Engineer building web applications from the front end and back end.
+- :telescope: I work as a Software Engineer building web applications on both the front-end and back-end.
 
 - :seedling: Exploring Technical Content Writing.
 
