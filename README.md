@@ -30,13 +30,13 @@
 
 ---
 
-### :woman_technologist: About Me : I'm a Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+### :woman_technologist: About Me : I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I work as a Software Developer building web applications on the front end.
+- :telescope: I work as a Software Engineer building web applications from the front end and back end.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Discord and read tech articles.
+- :zap: In my free time, I solve problems on Discord, Dj and read tech articles.
 
 - :mailbox:You can reach me on: [![Linkedin Badge](https://img.shields.io/badge/-geekiedj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
