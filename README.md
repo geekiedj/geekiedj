@@ -38,7 +38,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time while I'm not solving problems on Discord, I like to listen to podcasts, such as Dark-net diaries, and read technical blogs..
+- :zap: In my free time when I'm not solving problems on Discord, I like to listen to podcasts, such as Dark-net diaries, and read technical blogs..
 
 - :mailbox:You can reach me on: [![Linkedin Badge](https://img.shields.io/badge/-geekiedj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
