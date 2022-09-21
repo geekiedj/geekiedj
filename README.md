@@ -34,9 +34,11 @@
 
 - :telescope: I work as a Software Engineer building web applications on both the front-end and back-end.
 
+- :telescope: My interest in cyber security and business analytics is growing, and I hope someday I can get into these fields.
+
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Discord, Dj and read tech articles.
+- :zap: In my free time while I'm not solving problems on Discord, I like to listen to podcasts, such as Dark-net diaries, and read technical blogs..
 
 - :mailbox:You can reach me on: [![Linkedin Badge](https://img.shields.io/badge/-geekiedj-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
