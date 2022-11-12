@@ -32,11 +32,11 @@
 
 ### :woman_technologist: About Me : I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from west Africa.
 
-- :telescope: I work as a Software Engineer building web applications on both the front-end and back-end.
+- :telescope: I'm a Software Engineer building web applications on both the front-end and back-end.
 
-- :telescope: Keen interest in cyber security and business analytics.
+- :telescope: Keen interest in cloud and cyber seurity.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Technical Writing.
 
 - :zap: In my free time when I'm not solving problems on Discord, I like to listen to podcasts, such as Dark-net diaries, and read technical blogs..
 
