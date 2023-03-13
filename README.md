@@ -66,8 +66,8 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Semantic Versioning](https://geekiebarbs.hashnode.dev/semantic-versioning)
 - [API and Microservices](https://geekiebarbs.hashnode.dev/microservices-and-api)
 - [How to Sum the Values of an Object in JavaScript](https://geekiebarbs.hashnode.dev/how-to-sum-the-values-of-an-object-in-javascript)
-- [Javascript Challenge](https://geekiebarbs.hashnode.dev/javascript-challenge-1)
 - [Javascript Challenge](https://geekiebarbs.hashnode.dev/javascript-challenge-1)
 <!-- BLOG-POST-LIST:END -->
