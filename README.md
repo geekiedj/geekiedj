@@ -66,8 +66,8 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the basics of RESTful APIs](https://geekiebarbs.hashnode.dev/understanding-the-basics-of-restful-apis)
 - [Discovering the Power of Sails.js: Lessons from Building a Blog App&quot;](https://geekiebarbs.hashnode.dev/discovering-the-power-of-sailsjs-lessons-from-building-a-blog-app)
 - [Semantic Versioning](https://geekiebarbs.hashnode.dev/semantic-versioning)
 - [API and Microservices](https://geekiebarbs.hashnode.dev/microservices-and-api)
-- [How to Sum the Values of an Object in JavaScript](https://geekiebarbs.hashnode.dev/how-to-sum-the-values-of-an-object-in-javascript)
 <!-- BLOG-POST-LIST:END -->
