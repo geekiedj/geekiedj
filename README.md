@@ -66,8 +66,8 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparing Sails and Express: Which Node.js framework is right for your project?](https://geekiebarbs.hashnode.dev/comparing-sails-and-express-which-nodejs-framework-is-right-for-your-project)
 - [Understanding the basics of RESTful APIs](https://geekiebarbs.hashnode.dev/understanding-the-basics-of-restful-apis)
 - [Discovering the Power of Sails.js: Lessons from Building a Blog App&quot;](https://geekiebarbs.hashnode.dev/discovering-the-power-of-sailsjs-lessons-from-building-a-blog-app)
 - [Semantic Versioning](https://geekiebarbs.hashnode.dev/semantic-versioning)
-- [API and Microservices](https://geekiebarbs.hashnode.dev/microservices-and-api)
 <!-- BLOG-POST-LIST:END -->
