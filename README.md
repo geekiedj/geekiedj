@@ -66,8 +66,8 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to utilize postman effectively when building your apis](https://geekiebarbs.hashnode.dev/how-to-utilize-postman-effectively-when-building-your-apis)
 - [Gitflow Branching Model](https://geekiebarbs.hashnode.dev/gitflow-branching-model)
 - [Comparing Sails and Express: Which Node.js framework is right for your project?](https://geekiebarbs.hashnode.dev/comparing-sails-and-express-which-nodejs-framework-is-right-for-your-project)
 - [Understanding the basics of RESTful APIs](https://geekiebarbs.hashnode.dev/understanding-the-basics-of-restful-apis)
-- [Discovering the Power of Sails.js: Lessons from Building a Blog App&quot;](https://geekiebarbs.hashnode.dev/discovering-the-power-of-sailsjs-lessons-from-building-a-blog-app)
 <!-- BLOG-POST-LIST:END -->
