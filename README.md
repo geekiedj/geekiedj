@@ -66,7 +66,7 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a CRUD App with Typescript, Node.js, Express and PostgreSQL](https://geekiebarbs.hashnode.dev/build-a-crud-app-with-typescript-nodejs-express-and-postgresql)
+- [Build a CRUD API with Typescript, Node.js, Express and PostgreSQL](https://geekiebarbs.hashnode.dev/build-a-crud-api-with-typescript-nodejs-express-and-postgresql)
 - [API Testing with Postman Collections: A Step-by-Step Guide](https://geekiebarbs.hashnode.dev/api-testing-with-postman-collections-a-step-by-step-guide)
 - [Gitflow Branching Model](https://geekiebarbs.hashnode.dev/gitflow-branching-model)
 - [Comparing Sails and Express: Which Node.js framework is right for your project?](https://geekiebarbs.hashnode.dev/comparing-sails-and-express-which-nodejs-framework-is-right-for-your-project)
