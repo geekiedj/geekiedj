@@ -66,8 +66,8 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Delete data from database &lpar;MariaDB&rpar; with packageJS](https://geekiebarbs.hashnode.dev/delete-data-from-database-mariadb-with-packagejs)
 - [How to modify permission in your workspace with packageJS &lpar;iOS version&rpar;](https://geekiebarbs.hashnode.dev/how-to-modify-permission-in-your-workspace-with-packagejs-ios-version)
 - [Build a Countdown app with Vue.js using Composition API](https://geekiebarbs.hashnode.dev/build-a-countdown-app-with-vuejs-using-composition-api)
 - [Build a CRUD API with Typescript, Node.js, Express and PostgreSQL](https://geekiebarbs.hashnode.dev/build-a-crud-api-with-typescript-nodejs-express-and-postgresql)
-- [API Testing with Postman Collections: A Step-by-Step Guide](https://geekiebarbs.hashnode.dev/api-testing-with-postman-collections-a-step-by-step-guide)
 <!-- BLOG-POST-LIST:END -->
